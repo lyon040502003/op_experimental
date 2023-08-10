@@ -1,0 +1,17 @@
+{
+    "enable" : true,
+    "path": "$HOUDINI_USER_PREF_DIR/",
+    "env": [
+            
+            {
+                "var":   "HOUDINI_OTLSCAN_PATH",
+                "value": "path_to_open_planck_HDAs_if_installed_if_not_delet/open_plack_HDAs/otls;
+                path_to_nextcloud_install/PRJ_Share/Tools;
+                @/otls"
+            },
+
+           ]
+}
+
+
+
